@@ -15,11 +15,12 @@
 
 # Mapa de Contexto
 
-<img width="2899" height="1722" alt="Sem título-2025-11-08-2103" src="https://github.com/user-attachments/assets/c275066e-0bee-4106-a06b-4f188cabfdcd" />
+<img width="3750" height="1502" alt="system_context" src="https://github.com/user-attachments/assets/3bc39db2-625e-4944-ab62-06ac5398ba00" />
+
 
 # System context diagram
 
-<img width="2250" height="1777" alt="image" src="https://github.com/user-attachments/assets/bddaa8eb-03b7-49c3-bd5e-f857aed4d903" />
+<img width="2899" height="1722" alt="Sem título-2025-11-08-2103" src="https://github.com/user-attachments/assets/c275066e-0bee-4106-a06b-4f188cabfdcd" />
 
 # Architecture Blueprint
 
