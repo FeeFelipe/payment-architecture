@@ -15,16 +15,18 @@
 
 # Mapa de Contexto
 
-<img width="3750" height="1502" alt="system_context" src="https://github.com/user-attachments/assets/3bc39db2-625e-4944-ab62-06ac5398ba00" />
+<img width="2899" height="1722" alt="Sem título-2025-11-08-2103" src="https://github.com/user-attachments/assets/c275066e-0bee-4106-a06b-4f188cabfdcd" />
 
 
 # System context diagram
 
-<img width="2899" height="1722" alt="Sem título-2025-11-08-2103" src="https://github.com/user-attachments/assets/c275066e-0bee-4106-a06b-4f188cabfdcd" />
+
+<img width="3750" height="1502" alt="system_context" src="https://github.com/user-attachments/assets/3bc39db2-625e-4944-ab62-06ac5398ba00" />
 
 # Architecture Blueprint
 
-<img width="2356" height="1697" alt="image" src="https://github.com/user-attachments/assets/bb39fb1b-665e-4647-994c-07b74c0f0c9b" />
+<img width="2250" height="1777" alt="image" src="https://github.com/user-attachments/assets/2ba590ac-1b51-4d53-837b-aed9de879927" />
+
 
 # Escalabilidade e Alta Disponibilidade — Estratégia de Arquitetura
 
