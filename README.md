@@ -19,7 +19,7 @@
 
 # System context diagram
 
-<img width="3750" height="1502" alt="Sem título-2025-11-08-21032" src="https://github.com/user-attachments/assets/4345ba58-cc65-47ac-8d24-28130004fdb7" />
+<img width="2250" height="1777" alt="image" src="https://github.com/user-attachments/assets/bddaa8eb-03b7-49c3-bd5e-f857aed4d903" />
 
 # Architecture Blueprint
 
