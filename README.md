@@ -41,8 +41,6 @@
 | **Observabilidade**          | **OpenTelemetry + Prometheus + Loki + Tempo + Grafana**             | Detecta gargalos, erros e saturações em tempo real; métricas e alertas baseados em SLOs garantem proatividade.                                                                                        |
 | **Resiliência de Rede**      | **Envoy / Service Mesh (mTLS, retries, circuit breaker)**           | Reduz impacto de falhas transitórias; mantém comunicações seguras e controladas entre serviços.                                                                                                       |
 | **Backpressure e Proteção**  | **Fila Kafka + Dead Letter Queue + Retry policy**                   | Absorve picos de carga e desacopla produtores/consumidores, evitando sobrecarga.                                                                                                                      |
-
-
 # Stack Tecnológica 
 
 | **Camada / Componente**          | **Tecnologia Recomendada**            | **Justificativa** |
